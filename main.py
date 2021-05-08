@@ -33,9 +33,9 @@ else:
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-API_KEY = 'ulQDnNhYlFoNzkMi1Gn1pfGk'
+API_KEY = 'your API key'
 
-SECRET_KEY = 'IunUmqMmmqoOxtAtkdoV7Wr9ecEgE9kQ'
+SECRET_KEY = 'your secret key'
 
 
 OCR_URL = "https://aip.baidubce.com/rest/2.0/ocr/v1/accurate_basic"
